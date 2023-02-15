@@ -1,0 +1,2 @@
+# Pas-kumi
+repository pasākumi
