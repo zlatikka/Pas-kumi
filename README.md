@@ -1,2 +1,2 @@
-# Pas-kumi
+# Pasākumi
 repository pasākumi
